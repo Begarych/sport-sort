@@ -1,0 +1,5 @@
+﻿  Form1.cpp
+e:\bvu\private\bogdan\sport_2.0\sport_2.0\form1.cpp(23): warning C4018: '<': signed/unsigned mismatch
+e:\bvu\private\bogdan\sport_2.0\sport_2.0\form1.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Sport_2.0.vcxproj -> E:\bvu\Private\bogdan\Sport_2.0\Debug\Sport_2.0.exe
